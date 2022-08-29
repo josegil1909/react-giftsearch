@@ -19,7 +19,8 @@ export const GifExpertApp = () => {
 
     return (
         <>
-            <h1>GifExpertApp</h1>
+            <h1>Buscador de gifs :D </h1>
+            <p>Colca el nombre los gift que quieras buscar</p>
 
             {/* <button onClick={ addCategory }>Agregar</button> */}
 
