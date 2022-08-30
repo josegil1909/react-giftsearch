@@ -10,9 +10,7 @@ exports[`pruebas en el componente <GiftItem /> debe de hacer match con el snapsh
       src="https://one-punch.com/saitama.jpg"
     />
     <p>
-       
       Saitama
-       
     </p>
   </div>
 </div>
